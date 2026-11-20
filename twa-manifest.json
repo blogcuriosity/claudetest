@@ -18,7 +18,7 @@
   "maskableIconUrl": "https://namastemegamart.lovable.app/shop-icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": { "path": "./namastemegamart-upload.keystore", "alias": "namastemegamart" },
-  "appVersionName": "1.0.0",
+  "appVersion": "1.0.0",
   "appVersionCode": 1,
   "shortcuts": [
     { "name": "My Orders", "shortName": "Orders", "url": "/shop/orders", "chosenIconUrl": "https://namastemegamart.lovable.app/shop-icon-192.png" },
